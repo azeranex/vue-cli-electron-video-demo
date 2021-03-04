@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <video width="320" height="240" controls>
+    <video width="320" height="240" controls autoplay muted>
       <source src="Holy - 35006.mp4" type="video/mp4">
     </video>
     <HelloWorld msg="Welcome to Your Vue.js App"/>
